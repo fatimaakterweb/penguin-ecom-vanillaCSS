@@ -16,7 +16,7 @@
     font-size: 60px;
 }
 .btnn {
-    margin-top: 25px;
+   margin-top: 25px;
 }
 .btnn a {
     text-decoration: none;
@@ -34,4 +34,45 @@
 }
 h1 {
     font-size: 40px;
+}
+.all {
+    display: flex;
+}
+.box-1{
+    background-color: #e5e7eb;
+    height:600px;
+    width: 370px;
+    margin: 23px;
+    border: 1px solid #e5e7eb;
+    box-shadow:  0 5px 15px -5px;
+}
+.box-1 img{
+    background-color: white;
+    width: 335px;
+    height: 370px;
+    margin: 15px;
+    border-radius: 10px;
+}
+.box-1 h2{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.box-1 p{
+    margin-left: 20px;
+}
+.btnnn {
+    display: flex;
+}
+.btnnn h1{
+    color: rgb(250, 204, 21) ;
+    margin-left: 20px;
+}
+.btnnn a {
+    text-decoration: none;
+    font-weight: 700;
+    color:white;
+    background-color: rgba(12, 240, 8, 0.771);
+    padding: 15px;
+    border-radius: 7px 7px;
+    margin-left: 120px;
 }
